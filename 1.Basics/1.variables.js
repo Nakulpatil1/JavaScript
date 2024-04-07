@@ -1,7 +1,7 @@
 let accountID = "12334"
 var accountEmail = "ahah@gmail.com"
 const accountName = "Nakul"
-let accountPassword;
+let accountPassword
 
 // Prefer Not to use var.
 // Because of issue in block scope and functionaol Scope.
