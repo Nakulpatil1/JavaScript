@@ -18,4 +18,4 @@ buttons.forEach(function(button){
             body.style.backgroundColor = e.target.id
         }
     });
-});
+})
