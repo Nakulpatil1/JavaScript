@@ -1,4 +1,4 @@
-# JavJavaScript Notes: A Collaborative Learning Resource.
+# JavaScript Notes: A Collaborative Learning Resource.
 
 **Description:**
 
