@@ -2,7 +2,7 @@
 
 **Description:**
 
-This repository serves as a comprehensive and curated collection of JavaScript notes, designed to provide a valuable learning resource for beginners.
+This repository serves as a comprehensive and curated collection of JavaScript notes, designed to provide a valuable learning resource for beginners and To provide a Basic Foundation of JavaScript.
 
 **Inspiration:**
 
